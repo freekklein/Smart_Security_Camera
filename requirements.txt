@@ -1,0 +1,5 @@
+Flask==1.1.2
+jupyter==1.0.0
+imutils==0.5.3
+numpy==1.19.2
+pip==20.2.2
